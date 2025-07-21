@@ -1,2 +1,2 @@
 # M3ENet
-Code is coming soon
+The code is coming soon.
