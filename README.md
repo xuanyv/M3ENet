@@ -1,2 +1,5 @@
 # M3ENet
-The code is coming soon.
+ 
+<p align="center">
+<img src="./Pics/network.png" width=95%>
+<p>
